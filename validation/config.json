@@ -1,3 +1,5 @@
 {
-  "macros": ["example.mac"]
+  "macros": [
+    "HADRONTHERAPY_2_62MeV_MDA.mac"
+  ]
 }
